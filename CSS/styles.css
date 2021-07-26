@@ -1,0 +1,19 @@
+p {
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+body {
+    padding-top: 60px;
+}
+
+.jumbotron {
+    height: 40vh;
+    background-image: url(/img/4th.jpg);
+    color: white;
+    -webkit-text-stroke-width: 6px;
+    -webkit-text-stroke-color:white;
+   
+}
