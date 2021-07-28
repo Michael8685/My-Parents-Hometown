@@ -1,0 +1,27 @@
+.jumbotron {
+    height: 60vh;
+    background-image: url(/img/cow.jpg);
+    color: white;
+    -webkit-text-stroke-width: 6px;
+    -webkit-text-stroke-color:white;
+   
+}
+
+.display-2 {
+    padding: 150px;
+}
+
+.card {
+    padding: 20px;
+    margin: 20px;
+    
+}
+ 
+.row {
+    padding: 20px;
+    margin: 20px;
+}
+
+body {
+    background-image: url(/IMG/brick.jpg);
+}

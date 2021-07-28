@@ -1,0 +1,29 @@
+
+.jumbotron {
+    height: 70vh;
+    background-image: url(/img/water.jpg);
+    color: white;
+    -webkit-text-stroke-width: 6px;
+    -webkit-text-stroke-color:white;
+   
+}
+
+.display-2 {
+    padding: 200px;
+}
+
+.card {
+    padding: 20px;
+    margin: 20px;
+    
+}
+ 
+.row {
+    padding: 20px;
+    margin: 20px;
+}
+
+body {
+    background-image: url(/IMG/brick.jpg);
+}
+
