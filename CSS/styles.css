@@ -10,12 +10,12 @@ p {
 
 
 .jumbotron {
-    height: 50vh;
+    height: 60vh;
     background-image: url(/img/4th.jpg);
     color: white;
     -webkit-text-stroke-width: 6px;
     -webkit-text-stroke-color:white;
-   padding: 70px;
+   padding: 90px;
 }
 
 body {
